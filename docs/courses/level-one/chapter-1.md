@@ -25,11 +25,12 @@ If n8n Cloud isn't a good option for you, you can [self-host with Docker](/hosti
 
 For more details on the different ways to set up n8n, see our [platforms documentation](/choose-n8n.md#platforms).
 
-Once you have n8n running, open the Editor UI in a browser window. Log in to your n8n instance. Select **Overview** and then **Create Workflow** to view the main canvas.
+Once you have n8n running, open the Editor UI in a browser window.  
+Log in to your n8n instance. In the left sidebar, Select **Overview** and then **Create Workflow**  ad then **Personal** (or your project space). From there, you can create a new workflow.
 
 It should look like this:
+<img width="3190" height="1325" alt="image" src="https://github.com/user-attachments/assets/1d413b6b-8524-47e7-98cd-159df7b6469f" />
 
-<figure><img src="/_images/courses/level-one/chapter-one/l1-c1-editor-ui.png" alt="Editor UI" style="width:100%"><figcaption align = "center"><i>Editor UI</i></figcaption></figure>
 
 ## Editor UI settings
 
